@@ -1,6 +1,0 @@
-[submodule "hands-on/diveintoansible-lab"]
-	path = hands-on/diveintoansible-lab
-	url = https://github.com/spurin/diveintoansible.git
-[submodule "hands-on/diveintoansible"]
-	path = hands-on/diveintoansible
-	url = https://github.com/spurin/diveintoansible-lab.git
